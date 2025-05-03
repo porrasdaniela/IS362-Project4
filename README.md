@@ -1,5 +1,5 @@
 # IS362 – Project 4: Predictive Analysis Using scikit-learn  
-Daniela Porras-Lo  
+Daniela Porras
 IS 362 
 
 
